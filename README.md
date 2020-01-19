@@ -13,8 +13,12 @@ print(a)
 - p04.py
 - p05.py
 - p06.py
+- p07.py
 ### micro:bit設計
 - m01.py
 
 ### web:bit設計
 - w01.json
+- w02.json
+- w03.json
+- w04.json
