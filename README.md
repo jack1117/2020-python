@@ -4,10 +4,10 @@
 
 ### python程式設計邏輯
 - p01.py
-'''python
+...python
 a=10
 print(a)
-'''
+...
 - p02.py
 - p03.py
 ### micro:bit設計
@@ -15,6 +15,3 @@ print(a)
 - m02.py
 - p03.py
 ### web:bit設計
-- w01.py
-- w02.py
-- 203.py
