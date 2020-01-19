@@ -10,6 +10,9 @@ print(a)
 ```
 - p02.py
 - p03.py
+- p04.py
+- p05.py
+- p06.py
 ### micro:bit設計
 - m01.py
 
