@@ -22,3 +22,6 @@ print(a)
 - w02.json
 - w03.json
 - w04.json
+- w05.json
+- w06.json
+- w07.json
